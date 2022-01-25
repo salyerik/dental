@@ -1,4 +1,4 @@
-# this is the main page of the dentist's website
+# This is the main page of the dentist's website
 [Link to page⬅️][link]
 ## I used here:
 * HTML (BEM, PUG)
