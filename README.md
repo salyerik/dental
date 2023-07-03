@@ -1,16 +1,13 @@
-# This is the main page of the dentist's website
-[Link to page⬅️][link]
+# This is the main page of a dentist's website
+
 ## I used here:
-* HTML (BEM, PUG)
-* CSS (SASS)
+* HTML (BEM)
+* CSS
 * JavaScript:
 	* Swiper-slider
 	* Animations
 	* Spoilers
 	* Menu-burger
-* GULP
-* NPM
-* GIT
 
 [Link to page⬅️][link]
 
