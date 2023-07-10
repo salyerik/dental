@@ -14,4 +14,4 @@
 ### Mobile Optimization
 <img src="img/page-speed.jpg" alt="img" style="height: 400px;">
 
-[link]: https://steterik.github.io/dental/
+[link]: https://salyerik.github.io/dental/
